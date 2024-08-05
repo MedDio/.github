@@ -1,6 +1,10 @@
-# MedDio
 
-![MedDio Logo](logo.jpeg) <!-- Replace with actual logo URL -->
+
+<img src="logo.jpeg" alt="MedDio Logo" width="1200" height="350">
+
+<!-- ![MedDio Logo](logo.jpeg) Replace with actual logo URL -->
+
+<!-- # MedDio -->
 
 Welcome to **MedDio**! We are dedicated to developing cutting-edge medical diagnostic solutions to improve healthcare outcomes.
 
