@@ -1,5 +1,3 @@
-
-
 <img src="logo.jpeg" alt="MedDio Logo" width="1200" height="350">
 
 <!-- ![MedDio Logo](logo.jpeg) Replace with actual logo URL -->
@@ -37,3 +35,4 @@ MedDio is a comprehensive platform aimed at leveraging technology to enhance med
 | [MedDio-Neurology](https://github.com/MedDio/MedDio-Neurology)   | Resources for neurological disorder detection. |
 | [MedDio-Pulmonology](https://github.com/MedDio/MedDio-Pulmonology) | Algorithms and datasets for lung disease detection. |
 
+<!-- Testing comment -->
