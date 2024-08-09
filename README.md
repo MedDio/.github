@@ -3,7 +3,7 @@
 <!-- ![MedDio Logo](logo.jpeg) Replace with actual logo URL -->
 
 <!-- # MedDio -->
-
+## MedDio Life Is Priceless ###
 Welcome to **MedDio**! We are dedicated to developing cutting-edge medical diagnostic solutions to improve healthcare outcomes.
 
 ## 📚 Overview
@@ -33,6 +33,6 @@ MedDio is a comprehensive platform aimed at leveraging technology to enhance med
 | [MedDio-Diabetes](https://github.com/MedDio/MedDio-Diabetes)     | Machine learning models for diabetes prediction. |
 | [MedDio-Oncology](https://github.com/MedDio/MedDio-Oncology)     | Oncology diagnostics including cancer detection algorithms. |
 | [MedDio-Neurology](https://github.com/MedDio/MedDio-Neurology)   | Resources for neurological disorder detection. |
-| [MedDio-Pulmonology](https://github.com/MedDio/MedDio-Pulmonology) | Algorithms and datasets for lung disease detection. |
+| [MedDio-Pulmonology](https://github.com/MedDio/MedDio-Pulmonology) | Algorithms and datasets for lung disease detection. 
 
 <!-- Testing comment -->
