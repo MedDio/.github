@@ -1,4 +1,4 @@
-<img src="logo.jpeg" alt="MedDio Logo" width="1200" height="350">
+<img src="./profile/MeDioLogoHader.png" alt="MedDio Logo" width="1200" height="350">
 
 <!-- ![MedDio Logo](logo.jpeg) Replace with actual logo URL -->
 
