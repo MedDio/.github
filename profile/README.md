@@ -1,6 +1,6 @@
 
 
-<img src="logo.jpeg" alt="MedDio Logo" width="1200" height="350">
+<img src="MeDioLogoHader.png" alt="MedDio Logo" width="100%" height=auto />
 
 <!-- ![MedDio Logo](logo.jpeg) Replace with actual logo URL -->
 
